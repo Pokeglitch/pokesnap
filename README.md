@@ -1,11 +1,16 @@
+Based off of examples in N64 Bare Metal Code by krom (Peter Lemon).
+
+https://github.com/PeterLemon/N64
+
 Currently the make.bat is only suited for Windows since it uses the FC command to compare files
 
-#Requirements:
+## Requirements:
 
-bass assembler (originally by byuu, n64 compatible fork by ARM9)
+bass assembler (originally by byuu, n64 compatible fork by ARM9):
+
 https://github.com/ARM9/bass
 
-#Instructions:
+## Instructions:
 
 Place `Pokemon Snap (U) [!].z64` into the base directory and rename it to `baserom.z64.`
 

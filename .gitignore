@@ -1,4 +1,12 @@
 # roms
+*.n64
+*.u64
 *.v64
 *.z64
 *.rom
+
+# binaries
+*.bin
+
+# symfile
+*.sym
